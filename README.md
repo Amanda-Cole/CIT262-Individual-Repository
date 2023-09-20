@@ -1,0 +1,3 @@
+# Amanda Cole - ReadMe
+
+I love to play soccer and I think ketchup is spicey.
