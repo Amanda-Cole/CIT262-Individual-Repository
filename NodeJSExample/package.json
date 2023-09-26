@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "nodejs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanda-Cole/CIT262-Individual-Repository.git"
+  },
+  "author": "Amanda Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanda-Cole/CIT262-Individual-Repository/issues"
+  },
+  "homepage": "https://github.com/Amanda-Cole/CIT262-Individual-Repository#readme"
+}
